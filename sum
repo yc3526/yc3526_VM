@@ -4,6 +4,5 @@ for i in $@
 do
     sum=$(($i + $sum))
 done
-
 echo $sum "Wow! That's a big number!"
 
