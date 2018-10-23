@@ -1,4 +1,5 @@
-# do subtraction well
+# do subtraction
+>>>>>>> feature1
 
 echo $(($1-$2))
 
